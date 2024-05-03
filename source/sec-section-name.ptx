@@ -3,6 +3,58 @@
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Section Title</title>
 
-  <p> Text of section. </p>
+  <p> Here is an example that has a solution with steps. </p>
+
+  <p>
+    Before the example, let's do a list:
+    <ol>
+      <li>
+        <p>
+          First item.
+        </p>
+      </li>
+      <li>
+        <p>
+          Second item.
+        </p>
+      </li>
+      <li>
+        <p>
+          Third item.
+        </p>
+      </li>
+      </ol>
+      And that's all.
+  </p>
+
+  <example>
+    <statement>
+      <p>
+        What are the three steps to success?
+      </p>
+    </statement>
+    <solution interactive="reveal">
+      <p>
+        The steps are as follows:
+        <ol pause="yes">
+          <li>
+            <p>
+              Have a great idea.
+            </p>
+          </li>
+          <li>
+            <p>
+              ???
+            </p>
+          </li>
+          <li>
+            <p>
+              Profit.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </solution>
+  </example>
 
 </section>
